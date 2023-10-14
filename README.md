@@ -1,2 +1,2 @@
 # Xpiler
-Enabling Extreme Efficient NN Compilation on Edge Devices
+Enabling Extremely Efficient NN Compilation on Edge Devices
